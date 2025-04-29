@@ -1,0 +1,14 @@
+;Scenario 1;Scenario 2;Scenario 3;Scenario 4;Scenario 5;Scenario 6
+Compressor Power;0.1;0.2;0.1;0.1;0.2;0.1
+Grid;;;;2.6;6.4;17.3
+Hydrogen Storage;0.8;0.4;0.3;0.3;0.1;0.0
+Load;0.0;0.0;0.0;0.0;0.0;0.0
+Onshore Wind;9.0;;4.8;6.6;;
+PEM;2.4;3.5;2.5;2.6;2.7;1.8
+PV;;29.1;2.0;;4.1;
+battery storage;1.8;9.5;1.1;;1.4;
+Capex (Mio EUR);13.9;42.6;10.6;9.4;8.4;1.9
+Opex (Mio EUR);0.3;0.1;0.2;2.9;6.4;17.2
+Annualized Total Costs (Mio EUR);14.3;42.7;10.8;12.3;14.9;19.2
+Load (t_h2);2263.0;2263.0;2263.0;2263.0;2263.0;2263.0
+LCOH [EUR/kg];6.3;18.9;4.8;5.4;6.6;8.5

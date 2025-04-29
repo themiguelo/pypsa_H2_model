@@ -1,0 +1,7 @@
+Component;Type;Optimal Capacity;Installed Capacity;Supply;Withdrawal;Energy Balance;Transmission;Capacity Factor;Curtailment;Capital Expenditure;Operational Expenditure;Revenue;Market Value
+PV;Generator;683.41;0.0;143567.18;0.0;143567.18;0.0;0.02;641194.36;29096389.01;0.0;29096389.01;202.67
+Compressor Power;Link;18.28;0.0;0.0;13522.71;-13522.71;0.0;0.0;0.0;201673.61;0.0;0.0;0.0
+PEM;Link;35.02;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3519820.83;0.0;0.0;0.0
+Load;Load;0.0;0.0;0.0;75425.79;-75425.79;0.0;;0.0;0.0;0.0;-42712604.13;
+battery storage;StorageUnit;174.33;0.0;38738.71;38738.71;0.0;0.0;0.05;1527135.78;9399569.31;74150.53;9473719.85;244.55
+Hydrogen Storage;StorageUnit;232.82;0.0;17052.45;17052.45;0.0;0.0;0.02;2039475.98;376852.66;0.0;376852.66;22.1

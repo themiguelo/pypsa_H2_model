@@ -1,0 +1,8 @@
+Component;Scenario 1;Scenario 2;Scenario 3;Scenario 4;Scenario 5;Scenario 6
+Onshore Wind;81.98;;43.19;59.68;;
+PV;;683.41;46.6;;95.77;
+PEM;24.01;35.02;25.04;25.71;26.89;17.47
+Compressor Power;12.53;18.28;13.07;13.42;14.04;9.12
+battery storage;33.85;174.33;19.93;;25.57;
+Hydrogen Storage;107.83;48.9;37.63;41.25;6.6;1.4
+Grid;;;;6.92;14.11;17.36
